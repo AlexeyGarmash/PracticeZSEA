@@ -1,0 +1,74 @@
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe.config
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\bin\Debug\ClientWpf.pdb
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\Brushes.baml
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\Core.baml
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\Icons.baml
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\MainWindow.baml
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\App.baml
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\Core.g.cs
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\MainWindow.g.cs
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\App.g.cs
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.g.resources
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.exe
+c:\users\алекс\documents\visual studio 2013\Projects\ClientWpf\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe.config
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.exe
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.pdb
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\System.Windows.Controls.Layout.Toolkit.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\WPFToolkit.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\Brushes.baml
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\Core.baml
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\Icons.baml
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\App.baml
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\Core.g.cs
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\App.g.cs
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.g.resources
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+C:\Users\Night Knight\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe.config
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.exe
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\bin\Debug\ClientWpf.pdb
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\bin\Debug\WPFToolkit.dll
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\Brushes.baml
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\Core.baml
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\Icons.baml
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\App.baml
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\Core.g.cs
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\App.g.cs
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.g.resources
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+C:\Users\Алекс\Desktop\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
