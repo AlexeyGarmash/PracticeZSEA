@@ -1,0 +1,12 @@
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+c:\users\алекс\documents\visual studio 2013\Projects\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojResolveAssemblyReference.cache

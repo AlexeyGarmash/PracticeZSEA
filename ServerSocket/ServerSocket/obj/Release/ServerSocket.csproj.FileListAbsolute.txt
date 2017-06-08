@@ -1,0 +1,5 @@
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Release\ServerSocket.exe.config
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Release\ServerSocket.exe
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\bin\Release\ServerSocket.pdb
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\obj\Release\ServerSocket.exe
+C:\Users\Алекс\Desktop\ServerSocket\ServerSocket\obj\Release\ServerSocket.pdb
